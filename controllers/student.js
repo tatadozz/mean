@@ -1,4 +1,3 @@
-//CONTROLLER STUDENT CLEMENT
 var Student = require("../models/student");
 
 const { param, body, validationResult } = require("express-validator");
